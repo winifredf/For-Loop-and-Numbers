@@ -1,2 +1,2 @@
-for index in range(40):
+for index in range(40, 82):
     print(index)
